@@ -1,0 +1,16 @@
+{
+"blogs": [
+    {
+        "title":" my first blog" ,
+        "body": "whueifgl loren",
+        "author": "dami",
+        "id" : 1
+    },
+    {
+        "title":" Opening Party" ,
+        "body": "whueifgl loren",
+        "author": "diana2",
+        "id" : 2
+    }
+]
+}
